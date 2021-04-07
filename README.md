@@ -1,6 +1,7 @@
 ![Hardware and Firmware Developer](https://media-exp1.licdn.com/dms/image/C5616AQGv61gkc9amSw/profile-displaybackgroundimage-shrink_200_800/0/1591291597892?e=1623283200&v=beta&t=dGIgmsadaOnbj4EtDvDbwZbt265E7eRNZUT6XG_tEj4)
 
-### こんにちは(Kon'nichiwa), watashinonamaeha ronokudesu Hello!!! My name is **Ronok**
+### こんにちは(Kon'nichiwa), watashinonamaeha ronokudesu
+                    Hello!!! My name is **Ronok**
 #### Hardware and Firmware Developer
 
 
