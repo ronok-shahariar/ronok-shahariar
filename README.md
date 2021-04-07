@@ -11,7 +11,8 @@ C++/C#/DJANGO/ REST API/ REACT / HTML / CSS\
 KiCAD,ALTIUM,MATLAB,Siemens LOGO(PLC)
 
 ## Examples of work
-
+<img src="https://github.com/ronok-shahariar/ronok-shahariar/IoT based mobile app.gif.git">
+<img src="https://github.com/ronok-shahariar/ronok-shahariar/hardware projects.gif.git">
 
 - 🔭 I’m currently working on My own 
 - 🌱 I’m currently learning Flutter 
