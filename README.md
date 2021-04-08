@@ -22,9 +22,7 @@ KiCAD,ALTIUM,MATLAB,Siemens LOGO(PLC)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronok-shahariar)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronok-shahariar&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ronok-shahariar)  
-
+ 
 ![GitHub metrics](https://metrics.lecoq.io/ronok-shahariar)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ronok-shahariar)  
