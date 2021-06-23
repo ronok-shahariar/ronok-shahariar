@@ -1,5 +1,3 @@
-![Hardware and Firmware Developer](https://www.linkedin.com/in/md-shahariar-hasan-ronok-b2237a174/detail/background-image/)
-
 ### こんにちは(Kon'nichiwa), watashinonamaeha ronokudesu
 ###                Hello!!! My name is **Ronok**
 #### Hardware and Firmware Developer
