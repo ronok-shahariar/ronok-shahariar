@@ -7,7 +7,7 @@ I am currently studing Electrical and Computer Engineering.
 
 ## Skills & Experience
 C++/C#/DJANGO/ REST API/ REACT / HTML / CSS\
-KiCAD,ALTIUM,MATLAB,Siemens LOGO(PLC)
+KiCAD,ALTIUM,MATLAB,Siemens(PLC)
 
 - 🔭 I’m currently working on My own 
 - 🌱 I’m currently learning Flutter 
