@@ -1,137 +1,80 @@
 # Md. Shahariar Hassan Ronok
 
-### Embedded Software Engineer | High-Performance Networking | FPGA & SDR | RTL / VLSI
+### Embedded Software Engineer | FPGA | SDR | High-Performance Systems | RTL/VLSI
 
-I am an **Embedded Software Engineer at [Siliconova Ltd.](https://siliconova.com/)** with a B.Sc. in **Electrical & Computer Engineering (ECE)** from Rajshahi University of Engineering & Technology (RUET), Bangladesh.
+Building high-speed embedded, RF, and digital hardware systems across software, networking, and FPGA platforms.
 
-My work and research interests lie at the intersection of **embedded systems, high-speed networking, wireless communication, FPGA-based systems, and digital hardware design**.
-
-I enjoy understanding systems from the ground up — from RTL and processor architecture to Linux-based high-throughput software and real RF data pipelines.
+Currently working at [Siliconova Ltd.](https://siliconova.com/)
 
 ---
 
-## Engineering Focus
+## Focus
 
-- **Embedded & Systems Programming** — C, C++, Linux, POSIX
-- **High-Performance Networking** — DPDK, HugePages, CPU core isolation, zero-copy pipelines
-- **FPGA & Digital Hardware** — Verilog RTL, FPGA integration, timing and hardware-software co-design
-- **Software-Defined Radio (SDR)** — FPGA-to-host RF data pipelines and high-speed data acquisition
-- **Hardware Verification** — Cocotb, Verilator, Icarus Verilog, GTKWave
-- **Processor Architecture** — RISC-V, pipelining, hazards, forwarding and control logic
-- **System Integration** — Python, gRPC, shared memory, Docker
-- **Performance Analysis** — Intel VTune, Prometheus, Grafana
+`C` `C++` `Python` `Linux` `DPDK` `FPGA` `Verilog` `SDR` `RISC-V` `Cocotb` `gRPC`
 
 ---
 
-## Professional Experience
+## Engineering
 
-### Embedded Software Engineer — Siliconova Ltd.
+High-performance packet processing and Linux kernel-bypass systems
 
-I work on high-performance telecommunications and embedded systems involving:
+FPGA-based SDR and RF data acquisition
 
-- High-throughput packet-processing applications using **C and DPDK**
-- FPGA-based SDR and RF data acquisition systems
-- Linux kernel-bypass and low-latency data pipelines
-- FPGA-to-host communication and system integration
-- gRPC-based control and communication interfaces
-- Performance benchmarking and system-level debugging
-- Integration and validation of high-speed telecommunications platforms
+RTL design and hardware verification
 
-My recent work includes validation of **100 Gbps-class data pipelines** for RF and telecommunications systems.
+RISC-V processor architecture and pipeline design
 
----
-
-## VLSI & Digital Hardware
-
-I am also developing my skills in digital hardware design and verification.
-
-### 3-Stage Pipelined RISC-V Core
-Designed and verified a pipelined RISC-V processor architecture featuring:
-
-- Instruction Fetch, Decode/Execute and Memory/Writeback stages
-- Data forwarding
-- Load-use hazard detection
-- Pipeline stalls
-- Branch flushing
-- Automated Cocotb regression testing
-
-### Configurable FIFO & Protocol FSM Controllers
-Developed reusable RTL components including:
-
-- Parameterized synchronous FIFO
-- Full / empty detection
-- Circular pointer control
-- Moore and Mealy FSM architectures
-- Registered control outputs
-- Cocotb-based automated verification
-
-[Explore my VLSI projects →](https://ronok-shahariar.github.io/vlsi-projects/)
+Hardware-software co-design and system integration
 
 ---
 
 ## Research Interests
 
-My undergraduate research focused on **physical-layer security in wireless communication systems**, particularly secrecy performance under fading channels and randomly distributed eavesdroppers.
+Wireless Communication
 
-My current research interests include:
+Software-Defined Radio
 
-- Wireless communication systems
-- Software-Defined Radio
-- FPGA-accelerated signal processing
-- Intelligent RF systems
-- Anomaly detection in wireless/RF data
-- Computer architecture
-- VLSI and hardware-software co-design
+FPGA-Accelerated Systems
+
+Intelligent RF Systems
+
+Computer Architecture
+
+VLSI Design and Verification
 
 ---
 
-## Selected Technologies
+## Selected Projects
 
-**Languages**
+### 3-Stage Pipelined RISC-V Core
+Verilog-based processor pipeline with hazard detection, forwarding, branch handling, and automated Cocotb regression testing.
 
-`C` `C++` `Python` `Verilog` `MATLAB`
+### Configurable FIFO and Protocol FSM Controllers
+Reusable RTL blocks with parameterized FIFO architecture, control logic, and Cocotb-based verification.
 
-**Systems & Networking**
-
-`Linux` `DPDK` `POSIX Shared Memory` `HugePages` `gRPC` `Docker`
-
-**FPGA / RTL**
-
-`Verilog` `Vivado` `Cocotb` `Verilator` `Icarus Verilog` `GTKWave`
-
-**Performance & Monitoring**
-
-`Intel VTune` `Prometheus` `Grafana`
-
-**Wireless / Embedded**
-
-`SDR` `RF Data Acquisition` `FPGA-Host Integration` `Embedded Systems`
+[View VLSI Projects](https://ronok-shahariar.github.io/vlsi-projects/)
 
 ---
 
 ## Portfolio
 
-### Research & Engineering
-[ronok-shahariar.github.io](https://ronok-shahariar.github.io/)
+[Research and Engineering Portfolio](https://ronok-shahariar.github.io/)
 
-### Industrial Automation
-[ronok-automation-portfolio-sm89.vercel.app](https://ronok-automation-portfolio-sm89.vercel.app/)
+[Industrial Automation Portfolio](https://ronok-automation-portfolio-sm89.vercel.app/)
 
-### Software Development
-[porfolio-ronok.vercel.app](https://porfolio-ronok.vercel.app/)
+[Software Development Portfolio](https://porfolio-ronok.vercel.app/)
 
 ---
 
-## Connect With Me
+## Connect
 
-[LinkedIn](https://www.linkedin.com/in/MD-Shahariar-Hasan-Ronok/) •
-[GitHub](https://github.com/ronok-shahariar) •
-[Portfolio](https://ronok-shahariar.github.io/) •
+[LinkedIn](https://www.linkedin.com/in/MD-Shahariar-Hasan-Ronok/)
+
+[GitHub](https://github.com/ronok-shahariar)
+
 [Email](mailto:346ronokarya@gmail.com)
 
 ---
-
-## GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronok-shahariar&show_icons=true&hide_border=true)
 
