@@ -3,11 +3,7 @@
 ### Embedded Software Engineer | FPGA | SDR | High-Performance Systems | RTL/VLSI
 
 <p align="center">
-  <a
-    href="https://ronok-shahariar.github.io/"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
+  <a href="https://ronok-shahariar.github.io/">
     <img
       src="assets/hero/portfolio-cover.png"
       alt="Md. Shahariar Hassan Ronok Engineering Portfolio"
@@ -16,13 +12,7 @@
   </a>
 </p>
 
-I am an Embedded Software Engineer at
-<a
-  href="https://siliconova.com/"
-  target="_blank"
-  rel="noopener noreferrer"
->Siliconova Ltd.</a>
-working across embedded software, high-performance networking, FPGA-based systems, Software-Defined Radio, and hardware-software integration.
+I am an Embedded Software Engineer at [Siliconova Ltd.](https://siliconova.com/) working across embedded software, high-performance networking, FPGA-based systems, Software-Defined Radio, and hardware-software integration.
 
 My engineering interests connect high-speed software systems with digital hardware, wireless communication, and computer architecture.
 
@@ -55,7 +45,6 @@ I work with high-throughput RF data acquisition, FPGA-to-host communication, DPD
         width="100%"
       />
     </td>
-
     <td width="33%">
       <img
         src="assets/systems/part3_dpdk_data_plane.jpg"
@@ -63,7 +52,6 @@ I work with high-throughput RF data acquisition, FPGA-to-host communication, DPD
         width="100%"
       />
     </td>
-
     <td width="33%">
       <img
         src="assets/systems/part4_prometheus_grafana_dashboard.jpg"
@@ -72,7 +60,6 @@ I work with high-throughput RF data acquisition, FPGA-to-host communication, DPD
       />
     </td>
   </tr>
-
   <tr>
     <td align="center"><strong>FPGA and RF Systems</strong></td>
     <td align="center"><strong>High-Speed Data Plane</strong></td>
@@ -85,11 +72,7 @@ I work with high-throughput RF data acquisition, FPGA-to-host communication, DPD
 ## VLSI and Digital Hardware
 
 <p align="center">
-  <a
-    href="https://ronok-shahariar.github.io/vlsi-projects/"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
+  <a href="https://ronok-shahariar.github.io/vlsi-projects/">
     <img
       src="assets/vlsi/fpga-board-example.jpg"
       alt="FPGA and VLSI Projects"
@@ -102,11 +85,7 @@ My VLSI work focuses on RTL design, processor architecture, digital systems, and
 
 Current work includes a 3-stage pipelined RISC-V processor and configurable FIFO and protocol FSM controllers using Verilog and Cocotb.
 
-<a
-  href="https://ronok-shahariar.github.io/vlsi-projects/"
-  target="_blank"
-  rel="noopener noreferrer"
->View VLSI Projects</a>
+[View VLSI Projects](https://ronok-shahariar.github.io/vlsi-projects/)
 
 ---
 
@@ -123,45 +102,19 @@ VLSI and Hardware-Software Co-Design
 
 ## Portfolio
 
-<a
-  href="https://ronok-shahariar.github.io/"
-  target="_blank"
-  rel="noopener noreferrer"
->Research and Engineering Portfolio</a>
+[Research and Engineering Portfolio](https://ronok-shahariar.github.io/)
 
-<a
-  href="https://ronok-automation-portfolio-sm89.vercel.app/"
-  target="_blank"
-  rel="noopener noreferrer"
->Industrial Automation Portfolio</a>
+[Industrial Automation Portfolio](https://ronok-automation-portfolio-sm89.vercel.app/)
 
-<a
-  href="https://porfolio-ronok.vercel.app/"
-  target="_blank"
-  rel="noopener noreferrer"
->Software Development Portfolio</a>
+[Software Development Portfolio](https://porfolio-ronok.vercel.app/)
 
 ---
 
 ## Connect
 
-<a
-  href="https://www.linkedin.com/in/MD-Shahariar-Hasan-Ronok/"
-  target="_blank"
-  rel="noopener noreferrer"
->LinkedIn</a>
-
-<a
-  href="https://github.com/ronok-shahariar"
-  target="_blank"
-  rel="noopener noreferrer"
->GitHub</a>
-
-<a
-  href="mailto:346ronokarya@gmail.com"
-  target="_blank"
-  rel="noopener noreferrer"
->Email</a>
+[LinkedIn](https://www.linkedin.com/in/MD-Shahariar-Hasan-Ronok/)  
+[GitHub](https://github.com/ronok-shahariar)  
+[Email](mailto:346ronokarya@gmail.com)
 
 ---
 
