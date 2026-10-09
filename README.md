@@ -69,6 +69,18 @@ I work with high-throughput RF data acquisition, FPGA-to-host communication, DPD
 
 ---
 
+## Professional Platform Showcase
+
+My professional engineering experience includes work related to the [TruSystems Platform for Research & Prototyping by XRComm](https://xrcomm.com/trusystems-platform-for-research-and-prototyping/).
+
+The work involved areas such as FPGA-based SDR systems, high-throughput RF data acquisition, DPDK data paths, telemetry, remote control, system integration, and performance validation.
+
+Platform and product credit belongs to XRComm.
+
+[View TruSystems Platform](https://xrcomm.com/trusystems-platform-for-research-and-prototyping/)
+
+---
+
 ## VLSI and Digital Hardware
 
 <p align="center">
