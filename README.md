@@ -58,6 +58,10 @@ flowchart TB
   <img src="assets/graphana/description_demo_cover.jpg" alt="Sanitized screenshot of a Grafana-based telemetry dashboard" width="92%" />
 </div>
 
+<div align="center">
+  <img src="assets/graphana/description_demo_cover1.jpg" alt="Sanitized screenshot of a Grafana-based telemetry dashboard" width="92%" />
+</div>
+
 **Python exporter → Prometheus → Grafana** · Containerized telemetry and monitoring services.
 
 <sub>Dashboard image should be shared only with employer permission; identifying operational details must be removed before publication.</sub>
