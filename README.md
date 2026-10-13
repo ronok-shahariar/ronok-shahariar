@@ -37,11 +37,17 @@ I build reproducible test environments, automate validation pipelines, and devel
 ### CI/CD Workflow — Architecture Overview
 
 ```mermaid
-flowchart LR
-    A[Code change] --> B[Bitbucket pipeline]
-    B --> C[Build and automated checks]
-    C --> D[Docker-based virtual tests]
-    D --> E[Results for developers]
+flowchart TB
+    A["Code Change"]
+    B["Bitbucket CI/CD Pipeline"]
+    C["Build & Automated Tests"]
+    D["Docker-Based Validation"]
+    E["Test Results"]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
 ```
 
 <sub>Conceptual workflow of my professional testing solution, not a screenshot of a production pipeline.</sub>
