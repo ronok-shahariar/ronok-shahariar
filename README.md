@@ -1,145 +1,67 @@
+<div align="center">
+
 # Md. Shahariar Hassan Ronok
 
-### Embedded Software Engineer | FPGA | SDR | High-Performance Systems | RTL/VLSI
+**Embedded Software Engineer · Linux · Docker · CI/CD · Observability**
 
-<p align="center">
-  <a href="https://ronok-shahariar.github.io/">
-    <img
-      src="assets/hero/portfolio-cover.png"
-      alt="Md. Shahariar Hassan Ronok Engineering Portfolio"
-      width="100%"
-    />
-  </a>
-</p>
+I build reproducible test environments, automate validation pipelines, and develop containerized services for Linux-based systems.
 
-I am an Embedded Software Engineer at [Siliconova Ltd.](https://siliconova.com/) working across embedded software, high-performance networking, FPGA-based systems, Software-Defined Radio, and hardware-software integration.
+[![DevOps Portfolio](https://img.shields.io/badge/DevOps-Portfolio-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronok-shahariar/ronok-devops-portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shahariar-hasan-ronok-b2237a174/)
+[![Email](https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:346ronokarya@gmail.com)
 
-My engineering interests connect high-speed software systems with digital hardware, wireless communication, and computer architecture.
+</div>
 
 ---
 
-## Engineering Focus
+### Working Stack
 
-`C` `C++` `Python` `Linux` `DPDK` `FPGA` `Verilog` `SDR` `RISC-V` `Cocotb` `gRPC`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,python,c,git,github,githubactions,prometheus,grafana&perline=9" alt="Linux, Docker, Python, C, Git, GitHub, GitHub Actions, Prometheus, Grafana" />
+</div>
 
----
-
-## High-Performance RF and Embedded Systems
-
-<p align="center">
-  <img
-    src="assets/systems/satellite-dpdk-telemetry-architecture.png"
-    alt="Satellite DPDK Telemetry Architecture"
-    width="90%"
-  />
-</p>
-
-I work with high-throughput RF data acquisition, FPGA-to-host communication, DPDK data paths, remote control systems, telemetry, and performance validation.
-
-<table>
-  <tr>
-    <td width="33%">
-      <img
-        src="assets/systems/part1_flex_compute_fpga.png"
-        alt="FPGA System"
-        width="100%"
-      />
-    </td>
-    <td width="33%">
-      <img
-        src="assets/systems/part3_dpdk_data_plane.jpg"
-        alt="DPDK Data Plane"
-        width="100%"
-      />
-    </td>
-    <td width="33%">
-      <img
-        src="assets/systems/part4_prometheus_grafana_dashboard.jpg"
-        alt="Telemetry Dashboard"
-        width="100%"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>FPGA and RF Systems</strong></td>
-    <td align="center"><strong>High-Speed Data Plane</strong></td>
-    <td align="center"><strong>System Telemetry</strong></td>
-  </tr>
-</table>
+**Professional:** Docker · Bitbucket Pipelines · Linux · C/Python · gRPC · Prometheus · Grafana  
+**Independent labs:** Jenkins · GCP · Nginx · HTTPS/TLS · VPS deployment
 
 ---
 
-## Professional Platform Showcase
+### What I've Built
 
-My professional engineering experience includes work related to the [TruSystems Platform for Research & Prototyping by XRComm](https://xrcomm.com/trusystems-platform-for-research-and-prototyping/).
+| Professional project | My contribution | Details |
+|---|---|---|
+| **Docker-based CI/CD testing** | Built the containerized test environment and configured Bitbucket pipelines and automated checks; used by ~5 developers | [Case study](https://github.com/ronok-shahariar/ronok-devops-portfolio/tree/main/src/app/projects/hardware-independent-dpdk-testing) |
+| **Containerized observability** | Developed Python metrics exporter, Docker services, and Prometheus/Grafana integration | [Case study](https://github.com/ronok-shahariar/ronok-devops-portfolio/tree/main/src/app/projects/containerized-observability) |
+| **C/Python service integration** | Designed and implemented shared-memory-to-gRPC data delivery components | [Case study](https://github.com/ronok-shahariar/ronok-devops-portfolio/tree/main/src/app/projects/dpdk-grpc-data-pipeline) |
+| **Secure software licensing** | Architected runtime authorization, signed license validation, integrity checks, and audit logging | [Case study](https://github.com/ronok-shahariar/ronok-devops-portfolio/tree/main/src/app/projects/secure-software-licensing) |
 
-The work involved areas such as FPGA-based SDR systems, high-throughput RF data acquisition, DPDK data paths, telemetry, remote control, system integration, and performance validation.
+### CI/CD Workflow — Architecture Overview
 
-Platform and product credit belongs to XRComm.
+```mermaid
+flowchart LR
+    A[Code change] --> B[Bitbucket pipeline]
+    B --> C[Build and automated checks]
+    C --> D[Docker-based virtual tests]
+    D --> E[Results for developers]
+```
 
-[View TruSystems Platform](https://xrcomm.com/trusystems-platform-for-research-and-prototyping/)
+<sub>Conceptual workflow of my professional testing solution, not a screenshot of a production pipeline.</sub>
 
----
+### Monitoring — Actual Dashboard
 
-## VLSI and Digital Hardware
+<div align="center">
+  <img src="assets/graphana/description_demo_cover.jpg" alt="Sanitized screenshot of a Grafana-based telemetry dashboard" width="92%" />
+</div>
 
-<p align="center">
-  <a href="https://ronok-shahariar.github.io/vlsi-projects/">
-    <img
-      src="assets/vlsi/fpga-board-example.jpg"
-      alt="FPGA and VLSI Projects"
-      width="72%"
-    />
-  </a>
-</p>
+**Python exporter → Prometheus → Grafana** · Containerized telemetry and monitoring services.
 
-My VLSI work focuses on RTL design, processor architecture, digital systems, and hardware verification.
-
-Current work includes a 3-stage pipelined RISC-V processor and configurable FIFO and protocol FSM controllers using Verilog and Cocotb.
-
-[View VLSI Projects](https://ronok-shahariar.github.io/vlsi-projects/)
-
----
-
-## Research Interests
-
-Wireless Communication  
-Software-Defined Radio  
-FPGA-Accelerated Systems  
-Intelligent RF Systems  
-Computer Architecture  
-VLSI and Hardware-Software Co-Design
+<sub>Dashboard image should be shared only with employer permission; identifying operational details must be removed before publication.</sub>
 
 ---
 
-## Portfolio
+<div align="center">
 
-[Research and Engineering Portfolio](https://ronok-shahariar.github.io/)
+**[Explore DevOps case studies and engineering demos](https://github.com/ronok-shahariar/ronok-devops-portfolio)** · **[Software projects](https://porfolio-ronok.vercel.app/)**
 
-[Industrial Automation Portfolio](https://ronok-automation-portfolio-sm89.vercel.app/)
+*Professional source code and deployment configurations are private; case studies describe my own contributions without disclosing proprietary implementation details.*
 
-[Software Development Portfolio](https://porfolio-ronok.vercel.app/)
-
----
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/MD-Shahariar-Hasan-Ronok/)  
-[GitHub](https://github.com/ronok-shahariar)  
-[Email](mailto:346ronokarya@gmail.com)
-
----
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ronok-shahariar&show_icons=true&hide_border=true"
-    alt="GitHub Statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronok-shahariar&layout=compact&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
+</div>
